@@ -1,4 +1,4 @@
-# Imersao inteligencia artificial Alura & Google 2ª edição
+# Imersão inteligência artificial Alura & Google 2ª edição
 
 # Academic Research Assistant
 
