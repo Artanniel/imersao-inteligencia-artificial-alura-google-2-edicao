@@ -1,7 +1,8 @@
-# imersao-inteligencia-artificial-alura-google-2-edicao
-
+# Imersao inteligencia artificial Alura & Google 2ª edição
 
 # Academic Research Assistant
+
+<img src="/assets/img/BotAula4.gif">
 
 **Descrição**
 
