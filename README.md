@@ -29,9 +29,7 @@ O objetivo principal é criar uma ferramenta que facilite o acesso à informaç�
 
 ## **Tecnologias Utilizadas**
 
- - **Google Colab:** É um serviço do Jupyter Notebook hospedado que não requer configuração para uso e
-
-oferece acesso gratuito a recursos de computação, incluindo GPUs e TPUs. O Colab é adequado principalmente para aprendizado de máquina, ciência de dados e educação.
+ - **Google Colab:** É um serviço do Jupyter Notebook hospedado que não requer configuração para uso e oferece acesso gratuito a recursos de computação, incluindo GPUs e TPUs. O Colab é adequado principalmente para aprendizado de máquina, ciência de dados e educação.
  - **Google Gemini:** Modelo de linguagem de última geração para processamento de linguagem natural e geração de texto.
  - **Python:** Linguagem de programação principal para desenvolvimento do chatbot.
  - **Bibliotecas Python:** Bibliotecas específicas para interagir com a API do Google Gemini e outras funcionalidades do chatbot.
