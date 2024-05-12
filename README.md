@@ -3,13 +3,12 @@
 
 # Academic Research Assistant
 
-**
 **Descrição**
 
 Este projeto visa desenvolver um chatbot especializado em auxiliar estudantes e pesquisadores na revisão bibliográfica e escrita de textos acadêmicos, utilizando o poder do Google Gemini (quando disponível).
 O objetivo principal é criar uma ferramenta que facilite o acesso à informação científica, a organização de referências bibliográficas e a produção de textos acadêmicos mais claros e bem fundamentados.
 
-**Funcionalidades Principais**
+## **Funcionalidades Principais**
 
  1. **Revisão Bibliográfica:**
 
@@ -22,18 +21,20 @@ O objetivo principal é criar uma ferramenta que facilite o acesso à informaç�
  - Organização das referências bibliográficas de acordo com normas como
    ABNT ou APA.
 
-
  2. **Escrita de Textos Acadêmicos:**
-Sugestão de estrutura para o texto com base no argumento principal e objetivos do usuário.
-Auxílio na escrita de parágrafos, fornecendo sinônimos, corrigindo a gramática e estilo, e garantindo clareza e concisão.
-Identificação de trechos com potencial plágio e sugestão de reformulações.
-Tecnologias Utilizadas
-Google Gemini: Modelo de linguagem de última geração para processamento de linguagem natural e geração de texto.
-Python: Linguagem de programação principal para desenvolvimento do chatbot.
-Bibliotecas Python: Bibliotecas específicas para interagir com a API do Google Gemini (ainda não disponível) e outras funcionalidades do chatbot.
-Status do Projeto
-Em desenvolvimento: Aguardando a disponibilidade pública da API do Google Gemini.
-Fase atual: Pesquisa e desenvolvimento de protótipos.
-Como Contribuir
-Ajude-nos a aprimorar o projeto com sugestões, feedback e desenvolvimento de novas funcionalidades.
-Siga as instruções no arquivo CONTRIBUTING.md para saber como contribuir.
+  - Sugestão de estrutura para o texto com base no argumento principal e objetivos do usuário.
+  - Auxílio na escrita de parágrafos, fornecendo sinônimos, corrigindo a gramática e estilo, e garantindo clareza e concisão.
+  - Identificação de trechos com potencial plágio e sugestão de reformulações.
+
+
+## **Tecnologias Utilizadas**
+
+ - **Google Colab:** É um serviço do Jupyter Notebook hospedado que não requer configuração para uso e
+
+oferece acesso gratuito a recursos de computação, incluindo GPUs e TPUs. O Colab é adequado principalmente para aprendizado de máquina, ciência de dados e educação.
+ - **Google Gemini:** Modelo de linguagem de última geração para processamento de linguagem natural e geração de texto.
+ - **Python:** Linguagem de programação principal para desenvolvimento do chatbot.
+ - **Bibliotecas Python:** Bibliotecas específicas para interagir com a API do Google Gemini e outras funcionalidades do chatbot.
+
+## **Status do Projeto**
+Submetido para revisão de todos os participantes da 2ª edição da Imersão em Inteligência Artificial da Alura & Google.
