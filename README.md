@@ -4,7 +4,7 @@
 
 **Descrição**
 
-Este projeto visa desenvolver um chatbot especializado em auxiliar estudantes e pesquisadores na revisão bibliográfica e escrita de textos acadêmicos, utilizando o poder do Google Gemini (quando disponível).
+Este projeto visa desenvolver um chatbot especializado em auxiliar estudantes e pesquisadores na revisão bibliográfica e escrita de textos acadêmicos, utilizando o poder do Google Gemini.
 O objetivo principal é criar uma ferramenta que facilite o acesso à informação científica, a organização de referências bibliográficas e a produção de textos acadêmicos mais claros e bem fundamentados.
 
 <img src="/assets/img/BotAula4.gif">
